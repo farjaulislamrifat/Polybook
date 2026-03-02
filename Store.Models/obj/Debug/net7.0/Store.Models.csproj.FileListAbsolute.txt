@@ -1,0 +1,13 @@
+H:\source\Polybook\Store.Models\bin\Debug\net7.0\Store.Models.deps.json
+H:\source\Polybook\Store.Models\bin\Debug\net7.0\Store.Models.dll
+H:\source\Polybook\Store.Models\bin\Debug\net7.0\Store.Models.pdb
+H:\source\Polybook\Store.Models\obj\Debug\net7.0\Store.Models.csproj.AssemblyReference.cache
+H:\source\Polybook\Store.Models\obj\Debug\net7.0\Store.Models.GeneratedMSBuildEditorConfig.editorconfig
+H:\source\Polybook\Store.Models\obj\Debug\net7.0\Store.Models.AssemblyInfoInputs.cache
+H:\source\Polybook\Store.Models\obj\Debug\net7.0\Store.Models.AssemblyInfo.cs
+H:\source\Polybook\Store.Models\obj\Debug\net7.0\Store.Models.csproj.CoreCompileInputs.cache
+H:\source\Polybook\Store.Models\obj\Debug\net7.0\Store.Models.sourcelink.json
+H:\source\Polybook\Store.Models\obj\Debug\net7.0\Store.Models.dll
+H:\source\Polybook\Store.Models\obj\Debug\net7.0\refint\Store.Models.dll
+H:\source\Polybook\Store.Models\obj\Debug\net7.0\Store.Models.pdb
+H:\source\Polybook\Store.Models\obj\Debug\net7.0\ref\Store.Models.dll
